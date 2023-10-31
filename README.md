@@ -21,12 +21,15 @@
  
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <div align="center">
-  <a href="http://www.github.com/Kells-Jessie"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Kells-Jessie&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
-  <a href="http://www.github.com/Kells-Jessie"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kells-Jessie&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <a href="http://www.github.com/Kells-Jessie"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Kells-Jessie&hide=&count_private=true&bg_color=0D1117&theme=gotham&hide_border=true&show_icons=true"/></a>
+  <a href="http://www.github.com/Kells-Jessie"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kells-Jessie&langs_count=10&count_private=true&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117"/></a>
 </div>
-  
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-<img src="https://github-profile-trophy.vercel.app/?username=Kells-Jessie&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kells-Jessie&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kells-Jessie&bg_color=00000&color=7CCD7C&line=9AFF9A&point=7CCD7C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
            
 
 
