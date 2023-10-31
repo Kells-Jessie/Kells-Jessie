@@ -11,12 +11,12 @@
 
 #### Welcome to me! 
 
+#
 🌱 I’m currently learning CSS, HTML, Mysql and Java Script<br>
 💬 Ask me about art and culture<br>
 😄 Pronouns: She/her <br>
 ⚡ Fun fact: also loves learnning things<br>
 
-#
 #
  
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
