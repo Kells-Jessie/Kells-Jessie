@@ -14,7 +14,7 @@
 #
 🌱 I’m currently learning CSS, HTML, Mysql and Java Script<br>
 🍃 Ask me about art and culture<br>
-🌿 Regular studant at SPTECH School <br>
+🌿 Regular student at SPTECH School <br>
 
 #
 
